@@ -1,6 +1,3 @@
-# Log-Monitoring-Analysis
-Incident detection skills
-
 # Task 12: Log Monitoring & Analysis
 
 ## Objective
